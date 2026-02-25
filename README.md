@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050A16,50:0D1B2A,100:1B263B&text=JEDI%20DEV&fontSize=62&fontColor=FFE81F&fontAlignY=36&desc=Giorgi%20Apkhadze%20%E2%80%A2%20Frontend%20Architect%20%E2%80%A2%20Engineering%20Leader&descSize=18&descAlignY=58&animation=twinkling" alt="Jedi Dev header" />
+
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2600&pause=700&color=FFE81F&center=true&vCenter=true&width=920&lines=Jedi+Dev+of+the+Frontend+Order;Building+Scalable+UI+Across+the+Galaxy;Design+Systems+%2B+Product+Thinking+%2B+Clean+Code;May+the+Code+be+with+You" alt="Typing intro" />
 </div>
