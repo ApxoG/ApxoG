@@ -1,8 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B0F1A,50:1B2333,100:2A364D&text=Giorgi%20Apkhadze&fontSize=48&fontColor=FFE81F&fontAlignY=38&desc=Frontend%20Architect%20%E2%80%A2%20Engineering%20Leader%20%E2%80%A2%20Product-Minded%20Builder&descSize=18&descAlignY=58&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050A16,50:0D1B2A,100:1B263B&text=JEDI%20DEV&fontSize=62&fontColor=FFE81F&fontAlignY=36&desc=Giorgi%20Apkhadze%20%E2%80%A2%20Frontend%20Architect%20%E2%80%A2%20Engineering%20Leader&descSize=18&descAlignY=58&animation=twinkling" alt="Jedi Dev header" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3200&pause=800&color=FFE81F&center=true&vCenter=true&width=860&lines=May+the+Code+be+with+You.;Building+Scalable+Frontend+Systems.;Leading+Teams+to+Ship+with+Quality.;From+Design+Systems+to+Production+Delivery." alt="Typing intro" />
-  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2600&pause=700&color=FFE81F&center=true&vCenter=true&width=920&lines=Jedi+Dev+of+the+Frontend+Order;Building+Scalable+UI+Across+the+Galaxy;Design+Systems+%2B+Product+Thinking+%2B+Clean+Code;May+the+Code+be+with+You" alt="Typing intro" />
+</div>
+
+```text
+      _ ______ _____ _____   ______ _______      __
+     | |  ____|  __ \_   _| |  ____|__   __|\   / /
+     | | |__  | |  | || |   | |__     | |    \_/ /
+ _   | |  __| | |  | || |   |  __|    | |      | |
+| |__| | |____| |__| || |_  | |____   | |      | |
+ \____/|______|_____/_____| |______|  |_|      |_|
+```
+
+<div align="center">
   <sub><i>"Do or do not. There is no try."</i> - Master Yoda</sub>
   <br /><br />
   <a href="https://apxo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FFE81F?style=for-the-badge&logo=netlify&logoColor=111111" alt="Portfolio" /></a>
@@ -17,6 +28,7 @@
 
 ```yaml
 name: Giorgi Apkhadze
+codename: Jedi Dev
 role: Frontend Architect | Engineering Leader | Product-Minded Builder
 faction: Rebel Alliance of Clean Code & Great UX
 mission: Build resilient UI architecture and ship product outcomes at speed
@@ -25,6 +37,37 @@ focus_2026:
   - Design systems and reusable component platforms
   - Performance, accessibility, maintainability
   - Strong frontend-backend integration patterns
+```
+
+## Jedi Relic (ASCII)
+
+```text
+⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠠⠀⠀⠀⡇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠳⣴⣿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠒⠒⠒⠒⠒⢺⢿⣿⢗⠒⠒⠒⠒⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠁⣸⣿⣦⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣾⡟⠋⢹⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣿⡟⣴⣶⡄⣿⣧⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢰⣿⣿⣧⢻⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⢻⣿⣿⣷⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⠿⣿⣿⣿⣿⣿⣿⣦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣾⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣿⣏⣻⣿⣿⣿⣿⣿⠋⣿⣿⣿⣿⣿⠙⣿⣷⣶⣤⣤⡄
+⠀⠀⠀⠀⢻⢇⣿⣿⣿⣿⣿⠹⠀⢹⣿⣿⣿⡇⠀⢟⣿⣿⡿⠋⠀
+⠀⠀⠀⠀⢘⣼⣿⣿⣿⣿⣿⡆⠀⢸⣿⠛⣿⡇⠀⢸⡿⠋⠀⠀⠀
+⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣦⣈⠻⠴⠟⣁⣴⣿⣿⠗⠀⠀⠀
+⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀
+⠀⠀⢀⣿⣿⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀
+⠀⠀⣾⣿⡏⠀⠹⣿⠿⠿⠿⠿⣿⣿⣿⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⢰⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣰⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 ## Mission Briefing
@@ -56,10 +99,13 @@ focus_2026:
 ## Galactic Intelligence
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=apxo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=apxo&hide_border=true&background=0d1117&ring=FFE81F&fire=FFE81F&currStreakLabel=FFE81F&dates=c9d1d9&sideNums=FFE81F&sideLabels=c9d1d9" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apxo&theme=github_dark" alt="GitHub summary stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=apxo&hide_border=true&background=0D1117&ring=FFE81F&fire=FFE81F&currStreakLabel=FFE81F&dates=C9D1D9&sideNums=FFE81F&sideLabels=C9D1D9" alt="GitHub streak" />
   <br />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apxo&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFE81F&text_color=c9d1d9" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apxo&theme=github_dark" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apxo&theme=github_dark" alt="Most commit language" />
+  <br />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=apxo&theme=github-compact&hide_border=true&area=true&color=FFE81F&line=FFE81F&point=FFFFFF" alt="Contribution activity graph" />
 </div>
 
 ## Rebel Transmission Feed
