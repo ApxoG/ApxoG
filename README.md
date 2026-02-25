@@ -122,9 +122,7 @@ focus_2026:
 
 - Portfolio: [apxo.netlify.app](https://apxo.netlify.app)
 - GitHub: [github.com/apxo](https://github.com/apxo)
-- Twitter/X: [x.com/YOUR_HANDLE](https://x.com)
-- Dev.to: [dev.to/YOUR_DEVTO_USERNAME](https://dev.to)
-- Medium: [medium.com/@YOUR_MEDIUM_USERNAME](https://medium.com)
+
 
 ---
 
