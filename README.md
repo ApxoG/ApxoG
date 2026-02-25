@@ -4,14 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2600&pause=700&color=FFE81F&center=true&vCenter=true&width=920&lines=Jedi+Dev+of+the+Frontend+Order;Building+Scalable+UI+Across+the+Galaxy;Design+Systems+%2B+Product+Thinking+%2B+Clean+Code;May+the+Code+be+with+You" alt="Typing intro" />
 </div>
 
-```text
-      _ ______ _____ _____   ______ _______      __
-     | |  ____|  __ \_   _| |  ____|__   __|\   / /
-     | | |__  | |  | || |   | |__     | |    \_/ /
- _   | |  __| | |  | || |   |  __|    | |      | |
-| |__| | |____| |__| || |_  | |____   | |      | |
- \____/|______|_____/_____| |______|  |_|      |_|
-```
+
 
 <div align="center">
   <sub><i>"Do or do not. There is no try."</i> - Master Yoda</sub>
